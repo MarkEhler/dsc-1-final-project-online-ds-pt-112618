@@ -13,13 +13,14 @@ LICENSE.md	initial commit	8 months ago
 README.md	Add column names	8 months ago
 awesome.gif	initial commit	8 months ago
 column_names.md	Clarified that at least 2 features should be discussed that highly in…	7 months ago
+<li> column_names.md - Clarifies the column names</li>
 index.ipynb	Clarified that at least 2 features should be discussed that highly in…	7 months ago
 kc_house_data.csv
 <li> King County Price Predictor.pdf -  </li>
 
 <li> King_County_Price_Prediction.ipynb -  </li>
 
-<li> Ikc_house_data.csv - King County housing dataset </li>
+<li> kc_house_data.csv - King County housing dataset </li>
 
 <li> to add -  blog post </li>
 
@@ -31,13 +32,13 @@ kc_house_data.csv
 
 
 
+
 ## The Dataset
 
-For this project, you'll be working with the King County House Sales dataset. We've modified the dataset to make it a bit more fun and challenging.  The dataset can be found in the file `"kc_house_data.csv"`, in this repo. 
+This project uses the King County House Sales dataset.  The dataset can be found in the file `"kc_house_data.csv"`, in this repo. 
 
-The description of the column names can be found in the column_names.md file in this repository. As with most real world data sets, the coliumn names are not perfectly described, so you'll have to do some research or use your best judgement if you have questions relating to what the data means.
+The description of the column names can be found in the column_names.md file in this repository. As with most real world data sets, the coliumn names are not perfectly described, so some research and best judgement if you have questions relating to what the data means.
 
-You'll clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible. 
 
 ## The Deliverables
 

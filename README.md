@@ -7,15 +7,10 @@ The purpose of this repository is to investigate and predict the housing prices 
 Table of Contents
 
 <ul>
-   	Add files via upload	3 months ago
-	Rename Untitled.ipynb to King_County_Price_Prediction.ipynb	9 days ago
-LICENSE.md	initial commit	8 months ago
-README.md	Add column names	8 months ago
-awesome.gif	initial commit	8 months ago
-column_names.md	Clarified that at least 2 features should be discussed that highly in…	7 months ago
+	<li> student.ipynb - notebook containing EDA, preprocessing, and final model </li>
+   	
 <li> column_names.md - Clarifies the column names</li>
-index.ipynb	Clarified that at least 2 features should be discussed that highly in…	7 months ago
-kc_house_data.csv
+
 <li> King County Price Predictor.pdf -  </li>
 
 <li> King_County_Price_Prediction.ipynb -  </li>

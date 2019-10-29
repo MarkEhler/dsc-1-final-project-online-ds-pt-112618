@@ -2,7 +2,7 @@
 
 # King County Housing Data Regresion Prediction vs Neural Network Prediction
 
-The purpose of this repository is to investigate and predict the housing prices in Seattle, Washington using various features given about the property.  This was my first notebook and linear regression model.  The linear regression model struggles from overfitting or outlier houses worth over $1 million.  Recent updates cover a return to this dataset in order to beat my unofficial score of $90,000 MSE using keras neural networks.
+The purpose of this repository is to investigate and predict the housing prices in Seattle, Washington using various features given about the property.  This was my first notebook and linear regression model.  The linear regression model struggles from overfitting or outlier houses worth over $1 million.  Future updates will focus on a return to this dataset in order to beat my unofficial score of $90,000 mean error using keras neural networks.
 
 Table of Contents
 
@@ -42,7 +42,7 @@ The description of the column names can be found in the column_names.md file in 
 
 ## The Deliverables
 
-There will be three deliverables for this project:
+There are three deliverables for this project:
 
 1. **A well documented Jupyter Notebook** containing any code you've written for this project and comments explaining it.  
 2. A short **Keynote/PowerPoint/Google Slides presentation** (delivered as a PDF export) giving a high-level overview of your methodology and recommendations for non-technical stakeholders.
